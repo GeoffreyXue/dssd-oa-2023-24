@@ -21,8 +21,8 @@ fetch(
       center: { lon: -63, lat: -16 },
       zoom: 3
     },
-    width: 600,
-    height: 600
+    width: 800,
+    height: 800
   };
   
   // A local token that is only usable from origin http://localhost:5500

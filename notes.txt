@@ -1,0 +1,8 @@
+Running a stopwatch to determine time
+
+Downloading project, reading through instructions, getting everything running locally - 7 minutes
+Creating an account on render.com, getting backend set up - 10 minutes
+Getting mapbox set up, digging through plotly docs on how to get a geojson map working - 35 minutes
+Custom styling, nice to see adjustments - 62 minutes
+Correctly protect token - 65 minutes
+Final verification - 70 minutes
